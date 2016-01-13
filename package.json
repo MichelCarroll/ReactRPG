@@ -1,0 +1,20 @@
+{
+  "name": "react-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "reactify": "^1.1.1",
+    "through2": "^2.0.0"
+  }
+}
